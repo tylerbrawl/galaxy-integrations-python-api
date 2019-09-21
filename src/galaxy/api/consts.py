@@ -89,6 +89,7 @@ class Platform(Enum):
     IndieGala = "indiegala"
     Playfire = "playfire"
     Oculus = "oculus"
+    Rockstar = "rockstar"
     Test = "test"
 
 
